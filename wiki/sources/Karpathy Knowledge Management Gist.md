@@ -1,0 +1,30 @@
+---
+type: source
+status: seed
+tags:
+  - source
+  - karpathy
+url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+---
+
+# Karpathy Knowledge Management Gist
+
+Source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+## Compiled Takeaway
+
+The gist motivates a layered personal knowledge system where original sources, compiled wiki knowledge, and active work are separated.
+
+This repository implements that idea with:
+
+- `raw/` as the source archive
+- `wiki/` as the Obsidian Vault
+- `workspace/` as the project creation layer
+- Git as version history for the whole system
+
+## Related Pages
+
+- [[../concepts/Personal Knowledge Base]]
+- [[../methods/Raw to Wiki Compilation]]
+- [[../methods/Workspace to Wiki Promotion]]
+

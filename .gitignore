@@ -6,6 +6,8 @@ Icon?
 ._*
 
 # Obsidian local state
+/.obsidian/
+/*.canvas
 wiki/.obsidian/workspace.json
 wiki/.obsidian/workspace-mobile.json
 wiki/.obsidian/cache/
@@ -44,6 +46,7 @@ dist/
 build/
 out/
 coverage/
+logs/
 
 # Workspace generated intermediates
 workspace/**/.cache/
@@ -60,4 +63,3 @@ workspace/**/.venv/
 # raw/**/*.zip
 # raw/**/*.tar
 # raw/**/*.tar.gz
-

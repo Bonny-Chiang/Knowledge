@@ -5,7 +5,7 @@ tags:
   - workflow
   - ai-agent
 sources:
-  - "[[../sources/Karpathy Knowledge Management Gist]]"
+  - "[[Karpathy Knowledge Management Gist]]"
 ---
 
 # Raw to Wiki Compilation

@@ -4,7 +4,7 @@ status: seed
 tags:
   - knowledge-base
 sources:
-  - "[[../sources/Karpathy Knowledge Management Gist]]"
+  - "[[Karpathy Knowledge Management Gist]]"
 ---
 
 # Personal Knowledge Base

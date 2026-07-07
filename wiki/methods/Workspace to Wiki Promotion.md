@@ -5,7 +5,7 @@ tags:
   - workflow
   - workspace
 sources:
-  - "[[../sources/Karpathy Knowledge Management Gist]]"
+  - "[[Karpathy Knowledge Management Gist]]"
 ---
 
 # Workspace to Wiki Promotion

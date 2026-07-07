@@ -1,61 +1,12 @@
 {
-  "nodes": [
-    {
-      "id": "raw",
-      "type": "text",
-      "text": "raw/\nSource of Truth\n\nOriginal PDFs, webpages, repos, images, subtitles, datasets.\nStable archive. Do not edit originals.",
-      "x": 0,
-      "y": 0,
-      "width": 420,
-      "height": 220,
-      "color": "1"
-    },
-    {
-      "id": "wiki",
-      "type": "text",
-      "text": "wiki/\nObsidian Vault\n\nCompiled Markdown knowledge organized by concepts, methods, people, projects, and source summaries.",
-      "x": 520,
-      "y": 0,
-      "width": 420,
-      "height": 220,
-      "color": "2"
-    },
-    {
-      "id": "workspace",
-      "type": "text",
-      "text": "workspace/\nCreation Layer\n\nProjects, TODOs, prompts, experiments, code, reports, outputs. Stable knowledge is promoted back to wiki.",
-      "x": 1040,
-      "y": 0,
-      "width": 420,
-      "height": 220,
-      "color": "3"
-    }
-  ],
-  "edges": [
-    {
-      "id": "raw-to-wiki",
-      "fromNode": "raw",
-      "fromSide": "right",
-      "toNode": "wiki",
-      "toSide": "left",
-      "label": "compile"
-    },
-    {
-      "id": "wiki-to-workspace",
-      "fromNode": "wiki",
-      "fromSide": "right",
-      "toNode": "workspace",
-      "toSide": "left",
-      "label": "use"
-    },
-    {
-      "id": "workspace-to-wiki",
-      "fromNode": "workspace",
-      "fromSide": "bottom",
-      "toNode": "wiki",
-      "toSide": "bottom",
-      "label": "promote stable knowledge"
-    }
-  ]
+	"nodes":[
+		{"id":"raw","type":"text","text":"raw/\nSource of Truth\n\nOriginal PDFs, webpages, repos, images, subtitles, datasets.\nStable archive. Do not edit originals.","x":0,"y":0,"width":420,"height":220,"color":"1"},
+		{"id":"wiki","type":"text","text":"wiki/\nObsidian Vault\n\nCompiled Markdown knowledge organized by concepts, methods, people, projects, and source summaries.","x":520,"y":0,"width":420,"height":220,"color":"2"},
+		{"id":"workspace","type":"text","text":"workspace/\nCreation Layer\n\nProjects, TODOs, prompts, experiments, code, reports, outputs. Stable knowledge is promoted back to wiki.","x":1040,"y":0,"width":420,"height":220,"color":"3"}
+	],
+	"edges":[
+		{"id":"raw-to-wiki","fromNode":"raw","fromSide":"right","toNode":"wiki","toSide":"left","label":"compile"},
+		{"id":"wiki-to-workspace","fromNode":"wiki","fromSide":"right","toNode":"workspace","toSide":"left","label":"use"},
+		{"id":"workspace-to-wiki","fromNode":"workspace","fromSide":"bottom","toNode":"wiki","toSide":"bottom","label":"promote stable knowledge"}
+	]
 }
-

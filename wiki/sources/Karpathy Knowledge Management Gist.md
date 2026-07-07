@@ -24,7 +24,7 @@ This repository implements that idea with:
 
 ## Related Pages
 
-- [[../concepts/Personal Knowledge Base]]
-- [[../methods/Raw to Wiki Compilation]]
-- [[../methods/Workspace to Wiki Promotion]]
+- [[Personal Knowledge Base]]
+- [[Raw to Wiki Compilation]]
+- [[Workspace to Wiki Promotion]]
 

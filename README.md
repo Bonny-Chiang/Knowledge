@@ -51,6 +51,22 @@ This repository is connected to:
 https://github.com/Bonny-Chiang/Knowledge.git
 ```
 
+Primary automatic sync is handled by the Obsidian Git plugin inside:
+
+```text
+Knowledge/wiki/.obsidian/plugins/obsidian-git
+```
+
+The plugin is configured to:
+
+- auto-commit every 10 minutes
+- auto-push every 10 minutes
+- auto-pull every 30 minutes
+- pull on Obsidian startup
+- use `basePath: ".."` so the Vault can sync the repository root
+
+Manual fallback:
+
 Use:
 
 ```bash
@@ -58,5 +74,3 @@ scripts/knowledge-sync.sh
 ```
 
 to automatically stage allowed changes, create a timestamped commit when needed, pull with rebase, and push to GitHub.
-
-If the LaunchAgent is installed, the same sync runs periodically in the background.

@@ -8,3 +8,8 @@ Prefer scripts that operate on clear paths:
 - `wiki/` for durable notes
 - `workspace/` for project work
 
+## GitHub Sync
+
+- `knowledge-sync.sh` is the manual fallback sync command.
+- The primary automatic sync path is the Obsidian Git plugin installed in `wiki/.obsidian/plugins/obsidian-git`.
+- Obsidian Git is configured with `basePath: ".."` because the Vault is `Knowledge/wiki` while the Git repository root is `Knowledge`.

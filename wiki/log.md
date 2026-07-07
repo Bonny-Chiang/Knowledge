@@ -21,3 +21,8 @@ sources: []
 ## 2026-07-07
 
 - Compiled `raw/books/国发院稿件样刊及说明（新）.docx` into a source page, a policy-brief writing method, and an update to the government drone policy project.
+
+## 2026-07-08
+
+- Compiled `raw/books/20240429关于我国蚕桑产业发展情况的报告.docx` into a source page and a concept page on sericulture as a rural industry system.
+- Compiled `raw/books/20250826关于现代农业产业研究院建设情况的报告.doc` into a source page and a concept page on university agricultural industry research institutes.

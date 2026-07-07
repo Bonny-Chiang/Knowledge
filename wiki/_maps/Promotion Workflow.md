@@ -4,6 +4,7 @@ status: seed
 tags:
   - workflow
   - ai-agent
+sources: []
 ---
 
 # Promotion Workflow
@@ -17,4 +18,3 @@ Use this workflow when project work becomes durable knowledge.
 5. Create new notes only when the concept is genuinely new.
 6. Add links back to project summaries or source summaries.
 7. Add an entry to [[../log]].
-

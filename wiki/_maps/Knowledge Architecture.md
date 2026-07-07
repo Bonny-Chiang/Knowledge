@@ -4,6 +4,7 @@ status: seed
 tags:
   - knowledge-base
   - architecture
+sources: []
 ---
 
 # Knowledge Architecture
@@ -29,4 +30,3 @@ The creation layer. Active research, development, prompts, experiments, reports,
 ## Promotion
 
 Stable insights from `workspace/` should be promoted back into `wiki/`.
-

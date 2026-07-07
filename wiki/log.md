@@ -1,8 +1,9 @@
 ---
-type: log
+type: moc
 status: growing
 tags:
   - maintenance
+sources: []
 ---
 
 # Knowledge Log

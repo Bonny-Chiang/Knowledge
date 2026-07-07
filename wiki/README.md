@@ -1,3 +1,11 @@
+---
+type: moc
+status: seed
+tags:
+  - knowledge-base
+sources: []
+---
+
 # wiki
 
 `wiki/` is the Obsidian Vault and the durable knowledge layer.
@@ -40,4 +48,3 @@ Those belong in `raw/` or `workspace/`.
 - `projects/`: durable project summaries
 - `sources/`: source summaries, not raw sources
 - `tags/`: tag definition pages
-

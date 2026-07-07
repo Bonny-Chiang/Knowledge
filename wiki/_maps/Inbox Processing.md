@@ -3,6 +3,7 @@ type: method
 status: seed
 tags:
   - workflow
+sources: []
 ---
 
 # Inbox Processing
@@ -15,4 +16,3 @@ Use this workflow when new source material enters `raw/inbox/`.
 4. Decide whether the source is worth compiling into `wiki/`.
 5. If yes, create or update a source summary under `wiki/sources/`.
 6. Link the source summary to concepts, methods, people, or projects.
-

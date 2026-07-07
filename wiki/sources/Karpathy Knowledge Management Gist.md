@@ -4,6 +4,8 @@ status: seed
 tags:
   - source
   - karpathy
+sources:
+  - https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 ---
 
@@ -27,4 +29,3 @@ This repository implements that idea with:
 - [[Personal Knowledge Base]]
 - [[Raw to Wiki Compilation]]
 - [[Workspace to Wiki Promotion]]
-

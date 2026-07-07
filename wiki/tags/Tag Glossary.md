@@ -3,6 +3,7 @@ type: moc
 status: seed
 tags:
   - tags
+sources: []
 ---
 
 # Tag Glossary
@@ -22,4 +23,3 @@ Use tags for state and broad classification. Use links for semantic relationship
 - `#seed`
 - `#growing`
 - `#evergreen`
-

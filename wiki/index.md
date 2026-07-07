@@ -24,6 +24,8 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- [[20260625毕业照-夏摄影]]
+- [[毕业影像档案]]
 - [[关于加强政务无人机运行数据标准化管理的建议-初稿]]
 - [[低空政务治理]]
 - [[政务无人机一网统飞]]

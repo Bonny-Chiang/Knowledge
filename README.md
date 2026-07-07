@@ -33,6 +33,22 @@ raw -> wiki -> workspace -> wiki
 4. Promote stable project learnings back into `wiki/`.
 5. Commit and push changes to GitHub.
 
+## Automatic Compilation
+
+The intended daily workflow is:
+
+1. Put new material into `raw/` with Finder.
+2. Wait for the Codex automation `Compile new Knowledge raw sources` to run.
+3. Open `Knowledge/wiki` in Obsidian and check `index` or `log`.
+4. Let Obsidian Git or the sync script upload the committed result to GitHub.
+
+The Codex automation is the part that reads new sources and writes durable
+Markdown pages into `wiki/`. The Git sync tools only save and upload changes;
+they do not compile raw materials by themselves.
+
+Compiled raw files should get a neighboring `.source.md` sidecar. That sidecar
+is the marker that the source has already been processed.
+
 ## Obsidian
 
 Open only this folder as an Obsidian Vault:
@@ -74,3 +90,6 @@ scripts/knowledge-sync.sh
 ```
 
 to automatically stage allowed changes, create a timestamped commit when needed, pull with rebase, and push to GitHub.
+
+This script is only a sync fallback. Run it after wiki pages already exist; do
+not expect it to create new Obsidian notes from raw files.

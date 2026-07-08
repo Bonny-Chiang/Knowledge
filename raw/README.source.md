@@ -5,10 +5,10 @@ captured: 2026-07-08
 compiled_on: 2026-07-08
 status: compiled
 compiled_to:
-  - ../../wiki/sources/Raw Archive README.md
-  - ../../wiki/_maps/Knowledge Architecture.md
-  - ../../wiki/methods/Raw to Wiki Compilation.md
-  - ../../wiki/concepts/Personal Knowledge Base.md
+  - ../wiki/sources/Raw Archive README.md
+  - ../wiki/_maps/Knowledge Architecture.md
+  - ../wiki/methods/Raw to Wiki Compilation.md
+  - ../wiki/concepts/Personal Knowledge Base.md
 ---
 
 # raw README Source Metadata

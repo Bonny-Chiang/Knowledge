@@ -5,6 +5,7 @@ tags:
   - knowledge-base
 sources:
   - "[[Karpathy Knowledge Management Gist]]"
+  - "[[Raw Archive README]]"
 ---
 
 # Personal Knowledge Base
@@ -19,3 +20,4 @@ In this architecture, it is split into three practical spaces:
 
 The key idea is to keep evidence, knowledge, and work separate while maintaining a clear flow between them.
 
+In practice, the `raw/` archive works best when it preserves source files unchanged, uses stable storage categories, and keeps provenance in sidecar notes rather than mutating the originals.

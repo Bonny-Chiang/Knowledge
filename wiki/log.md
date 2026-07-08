@@ -24,5 +24,7 @@ sources: []
 
 ## 2026-07-08
 
+- Compiled `raw/README.md` into a source page and updates to the knowledge-architecture and raw-compilation notes.
+- Linked duplicate raw copies of the sericulture and agricultural-research-institute reports under `raw/papers/` to their existing compiled wiki pages with sidecar metadata.
 - Compiled `raw/books/20240429关于我国蚕桑产业发展情况的报告.docx` into a source page and a concept page on sericulture as a rural industry system.
 - Compiled `raw/books/20250826关于现代农业产业研究院建设情况的报告.doc` into a source page and a concept page on university agricultural industry research institutes.

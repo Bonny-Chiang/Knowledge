@@ -29,3 +29,4 @@ sources: []
 - Removed stale `raw/books/` references for those two reports.
 - Compiled `raw/papers/20240429关于我国蚕桑产业发展情况的报告.docx` into a source page and a concept page on sericulture as a rural industry system.
 - Compiled `raw/papers/20250826关于现代农业产业研究院建设情况的报告.doc` into a source page and a concept page on university agricultural industry research institutes.
+- Recompiled the two policy reports as writing samples, linking them to the NADS policy-brief method and the government-drone data-governance project through [[政策报告样本拆解]].

@@ -25,6 +25,8 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- [[YouTube GitHub 入门教程 a9u2yZvsqHA]]
+- [[GitHub 个人知识库同步工作流]]
 - [[Raw Archive README]]
 - [[关于我国蚕桑产业发展情况的报告]]
 - [[蚕桑产业]]

@@ -33,6 +33,8 @@ sources: []
 
 ## 2026-07-09
 
+- Added `raw/web/youtube-a9u2yZvsqHA.source.md` as a URL-only YouTube source to avoid storing the video file locally.
+- Compiled the YouTube GitHub beginner source into [[YouTube GitHub 入门教程 a9u2yZvsqHA]] and [[GitHub 个人知识库同步工作流]].
 - Compiled `raw/web/资料汇总-网页版/` as a low-altitude-governance source collection covering national policy, local platform cases, and industry framing.
 - Added [[低空经济一网统飞资料汇总（网页版）]] as the canonical source page for the captured HTML dossier.
 - Updated [[低空政务治理]], [[政务无人机一网统飞]], [[政务无人机运行数据标准化框架]], and [[政务无人机运行数据标准化政策建议]] with current case evidence and public-data policy links.

@@ -7,6 +7,7 @@ tags:
 sources:
   - "[[Karpathy Knowledge Management Gist]]"
   - "[[Raw Archive README]]"
+  - "[[../sources/YouTube GitHub 入门教程 a9u2yZvsqHA]]"
 ---
 
 # Raw to Wiki Compilation
@@ -32,3 +33,18 @@ The result should be a reusable page, not a one-time summary.
 - Keep the original raw file unchanged.
 - Prefer predictable archive folders so future retrieval stays simple.
 - Record provenance in sidecar notes instead of embedding it into the source file.
+
+## Web Video Guidance
+
+For YouTube and similar web video sources, prefer `raw/web/<source-id>.source.md`
+with URL-only metadata. This avoids storing large video files while still giving
+the AI agent a stable source record to compile from.
+
+Use this escalation path:
+
+1. URL-only metadata for discovery and provenance.
+2. Transcript or subtitles when detailed extraction is needed.
+3. Full video download only when offline preservation is necessary.
+
+The compiled wiki output should link the source to durable methods, concepts,
+or projects rather than leaving it as an isolated bookmark.

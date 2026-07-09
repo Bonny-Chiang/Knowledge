@@ -30,3 +30,10 @@ sources: []
 - Compiled `raw/papers/20240429关于我国蚕桑产业发展情况的报告.docx` into a source page and a concept page on sericulture as a rural industry system.
 - Compiled `raw/papers/20250826关于现代农业产业研究院建设情况的报告.doc` into a source page and a concept page on university agricultural industry research institutes.
 - Recompiled the two policy reports as writing samples, linking them to the NADS policy-brief method and the government-drone data-governance project through [[政策报告样本拆解]].
+
+## 2026-07-09
+
+- Compiled `raw/web/资料汇总-网页版/` as a low-altitude-governance source collection covering national policy, local platform cases, and industry framing.
+- Added [[低空经济一网统飞资料汇总（网页版）]] as the canonical source page for the captured HTML dossier.
+- Updated [[低空政务治理]], [[政务无人机一网统飞]], [[政务无人机运行数据标准化框架]], and [[政务无人机运行数据标准化政策建议]] with current case evidence and public-data policy links.
+- Updated [[国发院政策建议稿写作规范]] with a reusable method for using mixed web evidence packs in policy-brief drafting.

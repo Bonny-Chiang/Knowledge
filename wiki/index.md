@@ -25,6 +25,7 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- Duplicate-source normalization: [[20260625毕业照-夏摄影]] and [[Raw to Wiki Compilation]]
 - [[YouTube GitHub 入门教程 a9u2yZvsqHA]]
 - [[GitHub 个人知识库同步工作流]]
 - [[Raw Archive README]]

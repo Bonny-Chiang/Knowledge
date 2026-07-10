@@ -34,6 +34,21 @@ The result should be a reusable page, not a one-time summary.
 - Prefer predictable archive folders so future retrieval stays simple.
 - Record provenance in sidecar notes instead of embedding it into the source file.
 
+## Duplicate Copy Guidance
+
+If a raw folder contains copy-marked files such as `的副本`, `copy`, or
+`duplicate`, compare them against nearby files before treating them as new
+source material.
+
+When two files are byte-identical:
+
+1. Preserve both raw files unchanged.
+2. Record one canonical filename in the sidecar and source page.
+3. Prefer the non-copy-marked filename as canonical unless other metadata makes
+   a different canonical location clearer.
+4. Record the shared hash or other comparison basis so later automation runs can
+   skip redundant recompilation.
+
 ## Web Video Guidance
 
 For YouTube and similar web video sources, prefer `raw/web/<source-id>.source.md`

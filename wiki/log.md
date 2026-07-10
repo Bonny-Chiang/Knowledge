@@ -39,3 +39,9 @@ sources: []
 - Added [[低空经济一网统飞资料汇总（网页版）]] as the canonical source page for the captured HTML dossier.
 - Updated [[低空政务治理]], [[政务无人机一网统飞]], [[政务无人机运行数据标准化框架]], and [[政务无人机运行数据标准化政策建议]] with current case evidence and public-data policy links.
 - Updated [[国发院政策建议稿写作规范]] with a reusable method for using mixed web evidence packs in policy-brief drafting.
+
+## 2026-07-10
+
+- Normalized duplicate-source metadata for `raw/images/20260625毕业照-夏摄影/` by marking `IMG_20260625_155126.jpg` as the canonical file and preserving `IMG_20260625_155126的副本.jpg` as a provenance copy.
+- Updated [[20260625毕业照-夏摄影]] so the canonical-vs-preserved duplicate distinction is visible inside Obsidian.
+- Updated [[Raw to Wiki Compilation]] with a reusable rule for handling copy-marked duplicate files in raw archives.

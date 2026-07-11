@@ -8,6 +8,12 @@ sources: []
 
 # Knowledge Log
 
+## 2026-07-11
+
+- Compiled three `raw/github/research-review-*` workflow documents into [[中文社科前综述工作流]] and [[NotebookLM辅助文献综述工作流]].
+- Compiled the Baohe District low-altitude governance DOCX materials into [[包河区政务无人机巡查需求空间识别]] and [[低空政务巡查空间识别方法]].
+- Updated [[政务无人机运行数据标准化政策建议]], [[低空政务治理]], and [[政务无人机运行数据标准化框架]] with spatial demand identification and launch-site suitability evidence.
+
 ## 2026-07-06
 
 - Created the initial `Knowledge/` repository.

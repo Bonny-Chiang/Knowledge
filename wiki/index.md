@@ -25,6 +25,15 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- [[包河区政务无人机巡查需求空间识别]]
+- [[低空政务巡查空间识别方法]]
+- [[合肥包河区政务无人机巡查需求空间识别研究备忘录]]
+- [[合肥包河区低空政务巡查研究一页样品]]
+- [[中文社科前综述工作流]]
+- [[NotebookLM辅助文献综述工作流]]
+- [[前综述关键词校准检索与入库汇总]]
+- [[前综述NotebookLM提示词与执行]]
+- [[NotebookLM输出回收与整理]]
 - Duplicate-source normalization: [[20260625毕业照-夏摄影]] and [[Raw to Wiki Compilation]]
 - [[YouTube GitHub 入门教程 a9u2yZvsqHA]]
 - [[GitHub 个人知识库同步工作流]]

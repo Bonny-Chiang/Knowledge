@@ -20,8 +20,9 @@ storage_strategy: url-only
 
 - URL: https://www.youtube.com/watch?v=a9u2yZvsqHA
 - Source type: YouTube video
-- Local storage: URL-only metadata file
+- Local storage: URL-only metadata sidecar
 - Raw sidecar: `raw/web/youtube-a9u2yZvsqHA.source.md`
+- Canonical raw artifact: the sidecar itself
 
 ## Storage Decision
 
@@ -38,4 +39,3 @@ storage_strategy: url-only
 - [[../methods/GitHub 个人知识库同步工作流]]
 - [[../concepts/Personal Knowledge Base]]
 - [[../methods/Raw to Wiki Compilation]]
-

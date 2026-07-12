@@ -1,10 +1,12 @@
 ---
 type: source-metadata
+source_file: youtube-a9u2yZvsqHA.source.md
+raw_path: raw/web/youtube-a9u2yZvsqHA.source.md
 source_type: youtube
 url: https://www.youtube.com/watch?v=a9u2yZvsqHA
 video_id: a9u2yZvsqHA
 captured: 2026-07-09
-compiled_on: 2026-07-09
+compiled_on: 2026-07-12
 status: compiled
 storage_strategy: url-only
 compiled_to:
@@ -18,7 +20,8 @@ compiled_to:
 
 - URL: https://www.youtube.com/watch?v=a9u2yZvsqHA
 - Platform: YouTube
-- Stored as: URL-only reference
+- Stored as: URL-only reference sidecar
+- Canonical raw artifact: `raw/web/youtube-a9u2yZvsqHA.source.md`
 - Reason: avoid storing large video files locally
 
 ## Handling Rule

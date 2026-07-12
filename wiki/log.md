@@ -8,6 +8,11 @@ sources: []
 
 # Knowledge Log
 
+## 2026-07-12
+
+- Normalized the URL-only YouTube source metadata so `raw/web/youtube-a9u2yZvsqHA.source.md` now declares itself as the canonical raw artifact.
+- Updated [[YouTube GitHub 入门教程 a9u2yZvsqHA]] and [[Raw to Wiki Compilation]] so URL-only web sources are visible in Obsidian as self-contained raw records rather than implicit exceptions.
+
 ## 2026-07-11
 
 - Compiled three `raw/github/research-review-*` workflow documents into [[中文社科前综述工作流]] and [[NotebookLM辅助文献综述工作流]].

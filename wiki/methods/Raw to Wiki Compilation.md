@@ -55,6 +55,10 @@ For YouTube and similar web video sources, prefer `raw/web/<source-id>.source.md
 with URL-only metadata. This avoids storing large video files while still giving
 the AI agent a stable source record to compile from.
 
+When the sidecar itself is the only raw artifact, record that explicitly in the
+sidecar metadata so later automation can verify the source path without special
+cases.
+
 Use this escalation path:
 
 1. URL-only metadata for discovery and provenance.

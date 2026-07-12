@@ -25,6 +25,7 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- URL-only source normalization: [[YouTube GitHub 入门教程 a9u2yZvsqHA]] and [[Raw to Wiki Compilation]]
 - [[包河区政务无人机巡查需求空间识别]]
 - [[低空政务巡查空间识别方法]]
 - [[合肥包河区政务无人机巡查需求空间识别研究备忘录]]

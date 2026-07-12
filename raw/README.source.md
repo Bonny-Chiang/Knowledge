@@ -1,6 +1,7 @@
 ---
 type: source-metadata
 source_file: README.md
+raw_path: raw/README.md
 captured: 2026-07-08
 compiled_on: 2026-07-08
 status: compiled

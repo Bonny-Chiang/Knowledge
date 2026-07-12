@@ -34,6 +34,19 @@ The result should be a reusable page, not a one-time summary.
 - Prefer predictable archive folders so future retrieval stays simple.
 - Record provenance in sidecar notes instead of embedding it into the source file.
 
+## Sidecar Validation Guidance
+
+Each compiled raw source should have a neighboring `.source.md` file that can be
+validated without guesswork in later automation runs.
+
+- Record the exact `raw_path` for the canonical raw artifact.
+- Keep `source_file` or `source_folder` aligned with the actual filename.
+- Use a trailing slash in `raw_path` for folder-based sources.
+- Keep `compiled_to` limited to wiki pages that still exist.
+
+This makes duplicate detection, moved-source normalization, and exact-path
+verification possible without reopening every already-compiled source.
+
 ## Duplicate Copy Guidance
 
 If a raw folder contains copy-marked files such as `的副本`, `copy`, or

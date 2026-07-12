@@ -1,6 +1,7 @@
 ---
 type: source-metadata
 source_file: research-review-02-notebooklm-prompts-execution.md
+raw_path: raw/github/research-review-02-notebooklm-prompts-execution.md
 captured: 2026-07-11
 compiled_on: 2026-07-11
 status: compiled

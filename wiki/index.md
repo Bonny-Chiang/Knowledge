@@ -25,6 +25,7 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- Sidecar raw-path normalization: [[Raw to Wiki Compilation]] and source metadata records
 - URL-only source normalization: [[YouTube GitHub 入门教程 a9u2yZvsqHA]] and [[Raw to Wiki Compilation]]
 - [[包河区政务无人机巡查需求空间识别]]
 - [[低空政务巡查空间识别方法]]

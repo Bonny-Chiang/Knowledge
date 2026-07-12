@@ -10,6 +10,8 @@ sources: []
 
 ## 2026-07-12
 
+- Normalized legacy raw-source sidecars so compiled sources now record explicit `raw_path` values for exact-path validation in future automation runs.
+- Updated [[Raw to Wiki Compilation]] and [[index]] so sidecar-path validation is visible from the Obsidian home page.
 - Normalized the URL-only YouTube source metadata so `raw/web/youtube-a9u2yZvsqHA.source.md` now declares itself as the canonical raw artifact.
 - Updated [[YouTube GitHub 入门教程 a9u2yZvsqHA]] and [[Raw to Wiki Compilation]] so URL-only web sources are visible in Obsidian as self-contained raw records rather than implicit exceptions.
 

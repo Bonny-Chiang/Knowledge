@@ -10,6 +10,9 @@ sources: []
 
 ## 2026-07-13
 
+- Compiled `raw/video/Introduction to QGIS (Full Course, Ad-Free).md` into [[YouTube QGIS 入门课程 pGm7w-LywO0]] and [[QGIS 基础空间分析工作流]].
+- Added [[Spatial Thoughts]] as the source-channel page connecting the GIS and QGIS course materials.
+- Updated [[地理信息系统 GIS]] and [[低空政务巡查空间识别方法]] with QGIS implementation links for CRS, GeoPackage, buffering, zonal statistics, and isochrone-based accessibility.
 - Moved `A Practical Introduction to GIS` from `wiki/Clippings/` into `raw/video/` as a transcript source and compiled it into [[YouTube 视频 YSuRw6-kVuY]] and [[地理信息系统 GIS]].
 - Updated [[低空政务巡查空间识别方法]] with CRS/projection cautions for city-scale spatial analysis.
 - Compiled `raw/video/The Only GitHub Guide You’ll Ever Need.md` into [[The Only GitHub Guide Youll Ever Need]] and [[GitHub 基础协作工作流]].

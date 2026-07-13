@@ -25,6 +25,9 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- [[YouTube QGIS 入门课程 pGm7w-LywO0]]
+- [[QGIS 基础空间分析工作流]]
+- [[Spatial Thoughts]]
 - Full transcript compilation: [[YouTube 视频 YSuRw6-kVuY]] and [[地理信息系统 GIS]]
 - [[The Only GitHub Guide Youll Ever Need]]
 - [[GitHub 基础协作工作流]]

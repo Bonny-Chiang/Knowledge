@@ -8,6 +8,11 @@ sources: []
 
 # Knowledge Log
 
+## 2026-07-13
+
+- Added `raw/web/youtube-YSuRw6-kVuY.source.md` as a URL-only YouTube source.
+- Created [[YouTube 视频 YSuRw6-kVuY]] as a seed knowledge note because YouTube metadata and transcript retrieval were unavailable.
+
 ## 2026-07-12
 
 - Normalized legacy raw-source sidecars so compiled sources now record explicit `raw_path` values for exact-path validation in future automation runs.

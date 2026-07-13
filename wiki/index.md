@@ -25,6 +25,8 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- [[地理信息系统 GIS]]
+- [[YouTube 视频 YSuRw6-kVuY|A Practical Introduction to GIS]]
 - [[YouTube 视频 YSuRw6-kVuY]]
 - Sidecar raw-path normalization: [[Raw to Wiki Compilation]] and source metadata records
 - URL-only source normalization: [[YouTube GitHub 入门教程 a9u2yZvsqHA]] and [[Raw to Wiki Compilation]]

@@ -11,7 +11,8 @@ sources: []
 ## 2026-07-13
 
 - Added `raw/web/youtube-YSuRw6-kVuY.source.md` as a URL-only YouTube source.
-- Created [[YouTube 视频 YSuRw6-kVuY]] as a seed knowledge note because YouTube metadata and transcript retrieval were unavailable.
+- Updated [[YouTube 视频 YSuRw6-kVuY]] with the user-confirmed title `A Practical Introduction to GIS` and author/channel `Spatial Thoughts`.
+- Created [[地理信息系统 GIS]] and linked it to [[低空政务巡查空间识别方法]].
 
 ## 2026-07-12
 

@@ -25,6 +25,7 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- Full transcript compilation: [[YouTube 视频 YSuRw6-kVuY]] and [[地理信息系统 GIS]]
 - [[The Only GitHub Guide Youll Ever Need]]
 - [[GitHub 基础协作工作流]]
 - [[地理信息系统 GIS]]

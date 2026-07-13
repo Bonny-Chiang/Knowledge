@@ -10,6 +10,8 @@ sources: []
 
 ## 2026-07-13
 
+- Moved `A Practical Introduction to GIS` from `wiki/Clippings/` into `raw/video/` as a transcript source and compiled it into [[YouTube 视频 YSuRw6-kVuY]] and [[地理信息系统 GIS]].
+- Updated [[低空政务巡查空间识别方法]] with CRS/projection cautions for city-scale spatial analysis.
 - Compiled `raw/video/The Only GitHub Guide You’ll Ever Need.md` into [[The Only GitHub Guide Youll Ever Need]] and [[GitHub 基础协作工作流]].
 - Updated [[GitHub 个人知识库同步工作流]] with commit, branch, pull request, `.gitignore`, and push-failure recovery rules.
 - Added `raw/web/youtube-YSuRw6-kVuY.source.md` as a URL-only YouTube source.

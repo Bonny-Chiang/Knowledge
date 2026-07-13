@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YSuRw6-kVuY
 video_id: YSuRw6-kVuY
 captured: 2026-07-13
 compiled_on: 2026-07-13
-status: compiled-seed
+status: superseded-by-transcript
 storage_strategy: url-only
 metadata_status: partial
 title: A Practical Introduction to GIS
@@ -14,6 +14,7 @@ raw_path: raw/web/youtube-YSuRw6-kVuY.source.md
 compiled_to:
   - ../../wiki/sources/YouTube 视频 YSuRw6-kVuY.md
   - ../../wiki/concepts/地理信息系统 GIS.md
+superseded_by: raw/video/A Practical Introduction to GIS.md
 ---
 
 # YouTube Source: YSuRw6-kVuY
@@ -43,6 +44,6 @@ For deeper compilation, prefer adding one of these lightweight text sources:
 
 ## Compilation Status
 
-- Status: seed source note created
+- Status: superseded by transcript clipping in `raw/video/A Practical Introduction to GIS.md`
 - Source page: `wiki/sources/YouTube 视频 YSuRw6-kVuY.md`
 - Concept page: `wiki/concepts/地理信息系统 GIS.md`

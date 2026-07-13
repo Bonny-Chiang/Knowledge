@@ -10,6 +10,8 @@ sources: []
 
 ## 2026-07-13
 
+- Compiled `raw/video/The Only GitHub Guide You’ll Ever Need.md` into [[The Only GitHub Guide Youll Ever Need]] and [[GitHub 基础协作工作流]].
+- Updated [[GitHub 个人知识库同步工作流]] with commit, branch, pull request, `.gitignore`, and push-failure recovery rules.
 - Added `raw/web/youtube-YSuRw6-kVuY.source.md` as a URL-only YouTube source.
 - Updated [[YouTube 视频 YSuRw6-kVuY]] with the user-confirmed title `A Practical Introduction to GIS` and author/channel `Spatial Thoughts`.
 - Created [[地理信息系统 GIS]] and linked it to [[低空政务巡查空间识别方法]].

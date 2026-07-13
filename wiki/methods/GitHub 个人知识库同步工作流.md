@@ -9,6 +9,7 @@ tags:
   - knowledge-base
 sources:
   - "[[../sources/YouTube GitHub 入门教程 a9u2yZvsqHA]]"
+  - "[[../sources/The Only GitHub Guide Youll Ever Need]]"
   - "[[../concepts/Personal Knowledge Base]]"
 ---
 
@@ -32,6 +33,17 @@ Finder 放入资料 -> Codex 编译 wiki -> Git 记录变化 -> GitHub 远程备
 - Git: 记录 raw、wiki、workspace、脚本和配置的版本变化。
 - GitHub: 保存远程副本，便于恢复、迁移和跨设备同步。
 
+## GitHub Mental Model
+
+GitHub 不只是“上传按钮”。更准确地说，它提供四个层次：
+
+- 远程 repository：把本地项目放到云端。
+- commit：为项目创建可命名、可回退的检查点。
+- branch 和 pull request：在不破坏稳定主线的情况下实验、审查和合并变化。
+- `.gitignore` 和 SSH key：分别处理“不该上传什么”和“本地如何可信连接 GitHub”。
+
+对个人知识库来说，最关键的是 commit 和 push：每次稳定编译后都应该形成一个 commit；即使 GitHub push 因网络失败，本地 commit 仍然保留了可恢复的检查点。
+
 ## What Should Be Versioned
 
 - Markdown 知识页。
@@ -47,8 +59,18 @@ Finder 放入资料 -> Codex 编译 wiki -> Git 记录变化 -> GitHub 远程备
 
 如果一个来源的主要价值是“可以回到原网页查看”，就先采用 URL-only；如果它的主要价值是“文本内容需要被 AI 长期检索”，再补充 transcript 或摘要。
 
+## Personal Safety Checklist
+
+- [ ] 是否只提交了稳定的 Markdown、sidecar、脚本和配置？
+- [ ] 是否避免提交缓存、临时文件、密钥、日志和大体积视频？
+- [ ] 是否用清楚的 commit message 说明本次编译内容？
+- [ ] 如果 push 失败，本地 commit 是否已经存在？
+- [ ] 是否需要稍后再同步远端？
+
 ## Related
 
+- [[GitHub 基础协作工作流]]
 - [[../sources/YouTube GitHub 入门教程 a9u2yZvsqHA]]
+- [[../sources/The Only GitHub Guide Youll Ever Need]]
 - [[../concepts/Personal Knowledge Base]]
 - [[Raw to Wiki Compilation]]

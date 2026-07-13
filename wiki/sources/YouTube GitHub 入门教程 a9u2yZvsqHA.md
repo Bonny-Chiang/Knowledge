@@ -37,5 +37,6 @@ storage_strategy: url-only
 ## Compiled Into
 
 - [[../methods/GitHub 个人知识库同步工作流]]
+- [[../methods/GitHub 基础协作工作流]]
 - [[../concepts/Personal Knowledge Base]]
 - [[../methods/Raw to Wiki Compilation]]

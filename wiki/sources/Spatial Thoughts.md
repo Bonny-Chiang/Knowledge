@@ -8,7 +8,7 @@ tags:
   - qgis
   - spatial-analysis
 sources:
-  - "[[YouTube 视频 YSuRw6-kVuY]]"
+  - "[[YouTube 视频 GIS学前知识]]"
   - "[[YouTube QGIS 入门课程 pGm7w-LywO0]]"
 ---
 
@@ -20,7 +20,7 @@ Spatial Thoughts 是当前知识库中 GIS/QGIS 课程资料的发布方。已�
 
 ## Compiled Sources
 
-- [[YouTube 视频 YSuRw6-kVuY|A Practical Introduction to GIS]]
+- [[YouTube 视频 GIS学前知识|A Practical Introduction to GIS]]
 - [[YouTube QGIS 入门课程 pGm7w-LywO0|Introduction to QGIS]]
 
 ## Knowledge Value

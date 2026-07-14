@@ -9,7 +9,7 @@ tags:
   - cartography
 sources:
   - "[[../sources/YouTube QGIS 入门课程 pGm7w-LywO0]]"
-  - "[[../sources/YouTube 视频 YSuRw6-kVuY]]"
+  - "[[YouTube 视频 GIS学前知识]]"
 ---
 
 # QGIS 基础空间分析工作流

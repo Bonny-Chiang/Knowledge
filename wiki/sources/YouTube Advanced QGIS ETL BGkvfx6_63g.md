@@ -55,11 +55,11 @@ published: 2024-05-14
 
 ## Key Ideas
 
-- Processing Toolbox 是 QGIS 中推荐的分析入口，集中管理核心工具、插件工具和自建模型。
+- Processing Toolbox ==【数据处理工具箱】==是 QGIS 中推荐的分析入口，集中管理核心工具、插件工具和自建模型。
 - Toolbox 工具具有相似界面：input layer、参数、output、日志和结果查看器，便于组合成模型。
-- 临时图层适合中间过程，能避免工作目录被大量中间文件污染，也能保护只读数据源。
-- Extract by Attribute 适合简单字段筛选，例如 `ref begins with NH`。
-- Extract by Expression 更适合复杂筛选；表达式中双引号代表字段，单引号代表文本。
+- ==临时图层==适合中间过程，能避免工作目录被大量中间文件污染，也能保护只读数据源。
+- Extract by Attribute ==【按属性提取】==适合简单字段筛选，例如 `ref begins with NH`。
+- Extract by Expression ==【按表达式提取】==更适合复杂筛选；表达式中双引号代表字段，单引号代表文本。
 - `substring()` 可用于字符串截取，`regexp_match()` 可用于复杂模式匹配。
 - 正则表达式适合处理 GIS 中常见的混乱文本字段，例如道路编号、地名拼写、设施分类。
 - Add Geometry Attributes 可把几何长度、面积、坐标等写入属性表。

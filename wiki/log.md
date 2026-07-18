@@ -8,6 +8,11 @@ sources: []
 
 # Knowledge Log
 
+## 2026-07-18
+
+- Compiled `raw/video/03Extract, Transform and Load using Processing Toolbox - Advanced QGIS.md` into [[YouTube Advanced QGIS ETL BGkvfx6_63g]] and [[QGIS Processing Toolbox ETL 工作流]].
+- Updated [[QGIS 基础空间分析工作流]], [[地理信息系统 GIS]], [[低空政务巡查空间识别方法]], [[政务无人机运行数据标准化框架]], and [[包河区政务无人机巡查需求空间识别]] with Processing Toolbox ETL, expression, regex, field refactoring, GeoPackage, and processing-provenance rules.
+
 ## 2026-07-13
 
 - Compiled `raw/video/Introduction to QGIS (Full Course, Ad-Free).md` into [[YouTube QGIS 入门课程 pGm7w-LywO0]] and [[QGIS 基础空间分析工作流]].

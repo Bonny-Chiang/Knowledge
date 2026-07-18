@@ -10,6 +10,7 @@ tags:
 sources:
   - "[[../sources/YouTube QGIS 入门课程 pGm7w-LywO0]]"
   - "[[YouTube 视频 GIS学前知识]]"
+  - "[[../sources/YouTube Advanced QGIS ETL BGkvfx6_63g]]"
 ---
 
 # QGIS 基础空间分析工作流
@@ -57,6 +58,18 @@ sources:
 6. 对服务范围或可达性问题，优先考虑基于路网的 isochrone，而不是简单圆形缓冲区。
 7. 把结果与原始数据、参数和 CRS 一起记录，避免地图结果脱离分析条件。
 
+## Processing Toolbox Extension
+
+进阶分析应优先使用 [[QGIS Processing Toolbox ETL 工作流]]，把手动操作组织成可重复的处理链。
+
+Processing Toolbox 的价值在于：
+
+- 将内置工具、插件工具和自建模型放在同一入口。
+- 用 temporary layer 承接中间步骤，减少无意义文件堆积。
+- 用 Extract by Attribute、Extract by Expression 和 Select by Location 进行可记录筛选。
+- 用 Add Geometry Attributes、Field Calculator、Basic Statistics for Fields 和 Refactor Fields 形成稳定指标表。
+- 把最终结果写入 GeoPackage，而不是散落成多个临时文件。
+
 ## Application to Low-Altitude Governance
 
 在低空政务巡查研究中，QGIS 可以承担三类任务：
@@ -86,6 +99,7 @@ sources:
 ## Related
 
 - [[地理信息系统 GIS]]
+- [[QGIS Processing Toolbox ETL 工作流]]
 - [[低空政务巡查空间识别方法]]
 - [[../projects/包河区政务无人机巡查需求空间识别]]
 - [[../sources/YouTube QGIS 入门课程 pGm7w-LywO0]]

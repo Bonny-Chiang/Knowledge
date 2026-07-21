@@ -8,6 +8,12 @@ sources: []
 
 # Knowledge Log
 
+## 2026-07-21
+
+- Compiled `raw/papers/PPB-UAS-Annual-Report-2024.pdf` and `raw/papers/PPB-UAS-Annual-Report-2025.pdf` into [[PPB UAS Annual Report 2024]], [[PPB UAS Annual Report 2025]], and [[Portland Police UAS Program]].
+- Created [[无人机运行位置数据口径]] to distinguish call location, incident scene location, launch site, landing site, aircraft track, sensor footprint, and public generalized location.
+- Updated [[政务无人机运行数据标准化框架]], [[政务无人机运行数据标准化政策建议]], [[低空政务治理]], and [[低空政务巡查空间识别方法]] with PPB UAS location-semantics lessons.
+
 ## 2026-07-18
 
 - Compiled `raw/video/03Extract, Transform and Load using Processing Toolbox - Advanced QGIS.md` into [[YouTube Advanced QGIS ETL BGkvfx6_63g]] and [[QGIS Processing Toolbox ETL 工作流]].

@@ -8,6 +8,16 @@ sources: []
 
 # Knowledge Log
 
+## 2026-07-22
+
+- Compiled four newly added `raw/papers/` policy materials:
+  - `0103YB+京津冀协同创新.docx`
+  - `new0515周麟+制约县城高质量发展的治理新问题与对策建议(1).docx`
+  - `关于补齐上海建设科技创新型人才高地短板的建议-20221122.docx`
+  - `【首都咨政】2026-38（总588期）-以清北国重集中入驻为契机 多方位推进昌平南口—马池口高教集聚区提格升级-周麟.pdf`
+- Created source pages for the four materials and concept pages for [[区域协同创新]], [[县城高质量发展治理]], [[科技创新人才高地]], and [[高教集聚区与科创转化]].
+- Updated [[政策报告样本拆解]] and [[国发院政策建议稿写作规范]] so the new policy materials are integrated as reusable writing samples rather than isolated summaries.
+
 ## 2026-07-21
 
 - Compiled `raw/papers/PPB-UAS-Annual-Report-2024.pdf` and `raw/papers/PPB-UAS-Annual-Report-2025.pdf` into [[PPB UAS Annual Report 2024]], [[PPB UAS Annual Report 2025]], and [[Portland Police UAS Program]].

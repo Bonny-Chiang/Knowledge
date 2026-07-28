@@ -25,6 +25,12 @@ This is the home page for the Obsidian Vault.
 
 ## Recently Compiled
 
+- [[20260728组会批注图片资料]]
+- [[生态环境空间建模]]
+- [[空间环境建模汇报批注整理方法]]
+- [[An Integrative Hierarchical Stepwise Sampling Strategy]]
+- [[层级分步空间抽样策略]]
+- [[数字土壤制图]]
 - [[京津冀协同创新面临的关键问题及其对策建议]]
 - [[区域协同创新]]
 - [[制约县城高质量发展的城市治理新问题与应对建议]]

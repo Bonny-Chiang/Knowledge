@@ -8,6 +8,13 @@ sources: []
 
 # Knowledge Log
 
+## 2026-07-28
+
+- Compiled newly added `raw/images/260728组会/` image archive into [[20260728组会批注图片资料]], [[生态环境空间建模]], and [[空间环境建模汇报批注整理方法]].
+- Noted provenance risk in the meeting screenshots: some folder names and slide contents do not fully match, so future citation should verify original papers or formal slide decks.
+- Compiled `raw/papers/An integrative hierarchical stepwise sampling strategy for spatial sampling and its application in digital soil mapping.pdf` into [[An Integrative Hierarchical Stepwise Sampling Strategy]], [[层级分步空间抽样策略]], and [[数字土壤制图]].
+- Updated [[地理信息系统 GIS]] and [[低空政务巡查空间识别方法]] with spatial sampling and ecological spatial modeling links.
+
 ## 2026-07-22
 
 - Compiled four newly added `raw/papers/` policy materials:

@@ -7,9 +7,9 @@ tags:
   - spatial-analysis
   - geography
 sources:
-  - "[[YouTube 视频 GIS学前知识]]"
-  - "[[YouTube QGIS 入门课程 pGm7w-LywO0]]"
-  - "[[../sources/YouTube Advanced QGIS ETL BGkvfx6_63g]]"
+  - "[[YouTube01 GIS学前知识]]"
+  - "[[YouTube02 QGIS 入门课程]]"
+  - "[[YouTube03 Advanced QGIS]]"
 ---
 
 # 地理信息系统 GIS
@@ -78,9 +78,9 @@ GIS 是 [[低空政务巡查空间识别方法]] 的底层方法基础。包河�
 
 ## Related
 
-- [[YouTube 视频 GIS学前知识]]
-- [[YouTube QGIS 入门课程 pGm7w-LywO0]]
-- [[../sources/YouTube Advanced QGIS ETL BGkvfx6_63g]]
+- [[YouTube01 GIS学前知识]]
+- [[YouTube02 QGIS 入门课程]]
+- [[YouTube03 Advanced QGIS]]
 - [[QGIS 基础空间分析工作流]]
 - [[QGIS Processing Toolbox ETL 工作流]]
 - [[低空政务巡查空间识别方法]]

@@ -8,9 +8,9 @@ tags:
   - spatial-analysis
   - cartography
 sources:
-  - "[[../sources/YouTube QGIS 入门课程 pGm7w-LywO0]]"
-  - "[[YouTube 视频 GIS学前知识]]"
-  - "[[../sources/YouTube Advanced QGIS ETL BGkvfx6_63g]]"
+  - "[[YouTube02 QGIS 入门课程]]"
+  - "[[YouTube01 GIS学前知识]]"
+  - "[[YouTube03 Advanced QGIS]]"
 ---
 
 # QGIS 基础空间分析工作流
@@ -102,4 +102,4 @@ Processing Toolbox 的价值在于：
 - [[QGIS Processing Toolbox ETL 工作流]]
 - [[低空政务巡查空间识别方法]]
 - [[../projects/包河区政务无人机巡查需求空间识别]]
-- [[../sources/YouTube QGIS 入门课程 pGm7w-LywO0]]
+- [[YouTube02 QGIS 入门课程]]

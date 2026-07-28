@@ -41,7 +41,7 @@ published: 2024-05-14
 
 这节 Advanced QGIS 课程讲的是如何用 QGIS Processing Toolbox 完成 ETL：从原始空间数据中提取目标要素，转换字段、几何和度量结果，最后把清理后的结果写回稳定数据容器。课程示例用印度 Karnataka 的 OpenStreetMap 道路数据，从 42,000 多条道路中提取 national highways，计算总长度，并将整理后的结果保存回 GeoPackage。
 
-它相对于 [[YouTube QGIS 入门课程 pGm7w-LywO0]] 的增量在于：不再把 QGIS 视为手动点选和制图软件，而是把它视为可组合、可复用、可自动化的空间数据处理环境。
+它相对于 [[YouTube02 QGIS 入门课程]] 的增量在于：不再把 QGIS 视为手动点选和制图软件，而是把它视为可组合、可复用、可自动化的空间数据处理环境。
 
 ## Problem Framing
 

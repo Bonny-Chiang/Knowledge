@@ -8,9 +8,9 @@ tags:
   - qgis
   - spatial-analysis
 sources:
-  - "[[YouTube 视频 GIS学前知识]]"
-  - "[[YouTube QGIS 入门课程 pGm7w-LywO0]]"
-  - "[[YouTube Advanced QGIS ETL BGkvfx6_63g]]"
+  - "[[YouTube01 GIS学前知识]]"
+  - "[[YouTube02 QGIS 入门课程]]"
+  - "[[YouTube03 Advanced QGIS]]"
 ---
 
 # Spatial Thoughts
@@ -21,9 +21,9 @@ Spatial Thoughts 是当前知识库中 GIS/QGIS 课程资料的发布方。已�
 
 ## Compiled Sources
 
-- [[YouTube 视频 GIS学前知识|A Practical Introduction to GIS]]
-- [[YouTube QGIS 入门课程 pGm7w-LywO0|Introduction to QGIS]]
-- [[YouTube Advanced QGIS ETL BGkvfx6_63g|Extract, Transform and Load using Processing Toolbox]]
+- [[YouTube01 GIS学前知识|A Practical Introduction to GIS]]
+- [[YouTube02 QGIS 入门课程|Introduction to QGIS]]
+- [[YouTube03 Advanced QGIS|Extract, Transform and Load using Processing Toolbox]]
 
 ## Knowledge Value
 

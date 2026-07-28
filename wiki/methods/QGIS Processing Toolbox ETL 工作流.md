@@ -9,8 +9,8 @@ tags:
   - etl
   - reproducibility
 sources:
-  - "[[../sources/YouTube Advanced QGIS ETL BGkvfx6_63g]]"
-  - "[[../sources/YouTube QGIS 入门课程 pGm7w-LywO0]]"
+  - "[[YouTube03 Advanced QGIS]]"
+  - "[[YouTube02 QGIS 入门课程]]"
 ---
 
 # QGIS Processing Toolbox ETL 工作流
@@ -211,4 +211,4 @@ roads
 - [[低空政务巡查空间识别方法]]
 - [[政务无人机运行数据标准化框架]]
 - [[../projects/包河区政务无人机巡查需求空间识别]]
-- [[../sources/YouTube Advanced QGIS ETL BGkvfx6_63g]]
+- [[YouTube03 Advanced QGIS]]
